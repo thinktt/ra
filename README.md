@@ -1,6 +1,6 @@
 ## Install Red Alert on RetroPie
 1. F4 Go to ternial on your RetroPie
-2. Run these commands:
+2. Run these commands from the Pi home directory:
 ``` 
 wget "https://github.com/thinktt/ra/raw/master/ra.zip"
 sudo apt-get install unzip -y
