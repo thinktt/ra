@@ -22,7 +22,7 @@ this turns on ipx for network play in dosbox
 ```
 under [ipx] all the way at the bottom set ipx=true
 ```
-Exit Termilal, 
+Exit Termilal
 
 ## Start IPX server in Dosbox
 1. Start dosbox from RetroPie menus
