@@ -41,6 +41,6 @@ cd ra
 ra 
 ```
 
-You should now be able to do Network play with your friend through the Dosbox IPX server
+You should now be able to do network play with your friend through the Dosbox IPX server
 
 
