@@ -1,6 +1,6 @@
 ## Install Red Alert on RetroPie
-1. F4 Go to ternial on your RetroPie
-2. Run these commands from the Pi home directory:
+1. Press F4 tp go to terminal on your Retro Pie
+2. Run these commands from the pi home directory:
 ``` 
 wget "https://github.com/thinktt/ra/raw/master/ra.zip"
 sudo apt-get install unzip -y
@@ -22,14 +22,14 @@ this turns on ipx for network play in dosbox
 ```
 under [ipx] all the way at the bottom set ipx=true
 ```
-Exit Termilal
+Exit terminal
 
 ## Start IPX server in Dosbox
 1. Start dosbox from RetroPie menus
 2. Run one of these commands in Dosbox to get the ipx server working
 ```
 # start up an ipx dosbox server
-ipxnet startserver 12346
+ipxnet startserver [port-to-serve-from]
 ``` 
 ```
 # connects to an existing Dosbox ipx server 
